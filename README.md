@@ -37,6 +37,6 @@ You need
 
 ### Consequences
 
-1 Reduced coupling
-1 Added flexibility in assigning responsibilities for objects
-1 Receipt isn't guaranteed
+* Reduced coupling
+* Added flexibility in assigning responsibilities for objects
+* Receipt isn't guaranteed
